@@ -1,5 +1,5 @@
 ---
-path: blog/test-post-1
+path: test-post-1
 date: 2019-12-10T08:15:02.387Z
 title: Test Post 1
 ---
